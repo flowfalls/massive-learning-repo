@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "testing-nestjs": "https://github.com/jmcdo29/testing-nestjs.git",
+    "ts-basarat-getting-started": "https://github.com/basarat/typescript-book.git",
+    "typescript-3-patterns": "https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices.git",
+    "mastering-typescript-fourth-ed": "https://github.com/PacktPublishing/Mastering-TypeScript-Fourth-Edition.git"
+  }
+}
