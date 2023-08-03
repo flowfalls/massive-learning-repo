@@ -1,8 +1,18 @@
 {
   "projects": {
-    "testing-nestjs": "https://github.com/jmcdo29/testing-nestjs.git",
-    "ts-basarat-getting-started": "https://github.com/basarat/typescript-book.git",
-    "typescript-3-patterns": "https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices.git",
-    "mastering-typescript-fourth-ed": "https://github.com/PacktPublishing/Mastering-TypeScript-Fourth-Edition.git"
+    "nestjs/testing-nestjs": "https://github.com/jmcdo29/testing-nestjs.git",
+    "typescript/ts-basarat-getting-started": "https://github.com/basarat/typescript-book.git",
+    "typescript/typescript-3-patterns": "https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices.git",
+    "typescript/mastering-typescript-fourth-ed": "https://github.com/PacktPublishing/Mastering-TypeScript-Fourth-Edition.git",
+    "architecture/reactive": "https://github.com/wmr513/reactive.git",
+    "architecture/event-driven-patterns": "https://github.com/wmr513/event-driven-patterns.git",
+    "architecture/microservices-antipatterns": "https://github.com/wmr513/microservices-antipatterns-workbook",
+    "architecture/caching": "https://github.com/wmr513/caching.git",
+    "architecture/checklist/sre": "https://github.com/bregman-arie/sre-checklist.git",
+    "react/clothing-example": "https://github.com/ZhangMYihua/crwn-clothing-v2.git",
+    "react/cheatsheet": "https://github.com/typescript-cheatsheets/react.git",
+    "react/real-nextjs": "https://github.com/PacktPublishing/Real-World-Next.js.git",
+    "software/design-patterns": "https://github.com/DovAmir/awesome-design-patterns.git",
+    "terraform/oreilly": "https://github.com/spkane/todo-for-terraform.git"
   }
 }
