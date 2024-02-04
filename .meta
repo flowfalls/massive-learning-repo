@@ -12,7 +12,12 @@
     "react/clothing-example": "https://github.com/ZhangMYihua/crwn-clothing-v2.git",
     "react/cheatsheet": "https://github.com/typescript-cheatsheets/react.git",
     "react/real-nextjs": "https://github.com/PacktPublishing/Real-World-Next.js.git",
+    "react/react-18-best-practices": "https://github.com/PacktPublishing/React-18-Design-Patterns-and-Best-Practices-Fourth-Edition/tree/main",
     "software/design-patterns": "https://github.com/DovAmir/awesome-design-patterns.git",
-    "terraform/oreilly": "https://github.com/spkane/todo-for-terraform.git"
+    "terraform/oreilly": "https://github.com/spkane/todo-for-terraform.git",
+    "angular/rxjs-patterns": "https://github.com/PacktPublishing/Reactive-Patterns-with-RxJS-for-Angular.git",
+    "rust/tarui-solid-tailwind": "https://github.com/AR10Dev/tauri-solid-ts-tailwind-vite",
+    "llm/chatbox": "https://github.com/Bin-Huang/chatbox",
+    "rust/encrypt": "https://github.com/fer1s/rocketencrypt"
   }
 }
