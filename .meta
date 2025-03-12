@@ -4,6 +4,7 @@
     "typescript/ts-basarat-getting-started": "https://github.com/basarat/typescript-book.git",
     "typescript/typescript-3-patterns": "https://github.com/PacktPublishing/TypeScript-4-Design-Patterns-and-Best-Practices.git",
     "typescript/mastering-typescript-fourth-ed": "https://github.com/PacktPublishing/Mastering-TypeScript-Fourth-Edition.git",
+    "typescript/challenges": "https://github.com/type-challenges/type-challenges",
     "architecture/reactive": "https://github.com/wmr513/reactive.git",
     "architecture/event-driven-patterns": "https://github.com/wmr513/event-driven-patterns.git",
     "architecture/microservices-antipatterns": "https://github.com/wmr513/microservices-antipatterns-workbook",
